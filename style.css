@@ -11,9 +11,8 @@ body {
 }
 
 .wrapper {
-    max-width: 500px;
-    min-height: 200px;
-    margin: 100px 500px;
+    margin: 100px auto;
+    max-width: 800px;
     background-color: white;
     align-content: center;
     align-items: center;
